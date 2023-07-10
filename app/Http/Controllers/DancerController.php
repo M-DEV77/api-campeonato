@@ -13,7 +13,7 @@ class DancerController extends Controller
      */
     public function index()
     {
-        //
+        echo'Dancer show';
     }
 
     /**

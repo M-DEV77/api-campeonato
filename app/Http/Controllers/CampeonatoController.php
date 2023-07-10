@@ -13,7 +13,7 @@ class CampeonatoController extends Controller
      */
     public function index()
     {
-        //
+        echo'Campeonato show';
     }
 
     /**
